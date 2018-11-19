@@ -29,6 +29,3 @@ module.exports = {
     }
   }
 };
-
-//mm3thmb5$
-//company area perfect top width foster task shine hint fix today card
